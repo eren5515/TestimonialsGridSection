@@ -1,0 +1,109 @@
+body {
+    background-color: hsl(210, 46%, 95%);
+    
+    
+
+    height: 100vh;
+    text-align: center;
+   
+    
+}
+.mainCont {
+    padding: 10rem;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.cardDaniel {
+    background-color: hsl(263, 55%, 52%);
+    color: white;
+    background-image:url("images/bg-pattern-quotation.svg");
+    background-size: 20%;
+    background-repeat: no-repeat;
+    
+    background-position-x: 82%;
+}
+.cardJonathan {
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+    height: 355px;
+}
+.cardKira {
+    background-color: white;
+}
+.cardJeanette {
+    background-color: white;
+}
+.cardPatrick {
+    background-color: hsl(219, 29%, 14%);
+    color: white;
+}
+.cardsxyz {
+    border-radius: 2%;
+    text-align: left;
+}
+.images {
+    border-radius: 100%;
+    border: solid white;
+    
+
+    
+}
+
+.cardDaniel .cardInfo {
+    padding: 2% 2% 0 2%;
+    margin-left: 2%;
+    
+    text-align: left;
+}
+.cardJonathan .cardInfo {
+    padding: 2% 2% 0 2%;
+    margin-left: 2%;  
+    
+    text-align: left;
+}
+.cardKira .cardInfo {
+    padding: 2% 2% 0 2%;
+    margin-left: 2%;
+    
+    text-align: left;
+}
+.cardJeanette .cardInfo {
+    padding: 2% 2% 0 2%;
+    margin-left: 2%;
+    
+    text-align: left;
+}
+.cardPatrick .cardInfo {
+    padding: 21px 21px 0 21px;
+    margin-left: 8px;
+    
+    text-align: left;
+}
+.infoText {
+    margin-left: 2%;
+}
+
+h1 {
+    margin: 38px;
+    font-size: 1rem;
+    margin-left:38px;
+    margin-right: 38px;
+    margin-bottom: 38px;
+}
+h2 {
+    opacity: 70%;
+    margin-left:38px;
+    margin-right: 38px;
+    margin-bottom: 38px;
+    padding-bottom: 8%;
+    font-size: 1rem;
+}
+h3 {
+    font-size: 1rem;
+}
+.verifiedG {
+    opacity: 30%;
+}
